@@ -6,9 +6,9 @@
   "max_length": 100000000,
   "K": 6,
   "downsample": 1,
-  "root": "/scratch/shared/beegfs/czhang/FineGym/",
-  "save_folder": "/users/czhang/data/FineGym/exps/github",
-  "tbx_folder": "/users/czhang/data/FineGym/tbx/github",
-  "feature_file": "/users/czhang/work/TQN_demo/github/feature_bank_dive_prenorm/diving48_all_features.pkl",
-  "pretrained_weights_path": "/users/czhang/data/FineGym/exps/github/first_stage_diving_prenorm/best.pth"
+  "root": "../FineGym/",
+  "save_folder": "../exps",
+  "tbx_folder": "../tbx",
+  "feature_file": "../features/gym288_all_features.pkl",
+  "pretrained_weights_path": ""
 }

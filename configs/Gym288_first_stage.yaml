@@ -5,8 +5,8 @@
   "attribute_set_size": 98,
   "max_length": 48,
   "downsample": 1,
-  "root": "/scratch/shared/beegfs/czhang/FineGym/",
-  "save_folder": "/users/czhang/data/FineGym/exps/github",
-  "tbx_folder": "/users/czhang/data/FineGym/tbx/github",
-  "pretrained_weights_path": "/users/czhang/data/FineGym/exps/s3d_pretrained_kinetics_dropout08_uniform/S3D_K400.pth.tar"
+  "root": "../FineGym/",
+  "save_folder": "../exps",
+  "tbx_folder": "../tbx",
+  "pretrained_weights_path": "../S3D_K400.pth.tar"
 }
