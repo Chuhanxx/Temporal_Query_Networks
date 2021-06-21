@@ -1,0 +1,14 @@
+{
+  "dataset": "gym99",
+  "num_classes": 99, 
+  "num_queries": 12,
+  "attribute_set_size": 66,
+  "max_length": 100000000,
+  "K": 6,
+  "downsample": 1,
+  "root": "/scratch/shared/beegfs/czhang/FineGym/",
+  "save_folder": "/users/czhang/data/FineGym/exps/github",
+  "tbx_folder": "/users/czhang/data/FineGym/tbx/github",
+  "feature_file": "/users/czhang/work/TQN_demo/github/feature_bank_gym99/gym99_all_features.pkl",
+  "pretrained_weights_path": "/users/czhang/data/FineGym/exps/github/gym99_first_stage_prenorm_dropout08/best.pth"
+}

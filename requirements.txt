@@ -1,0 +1,7 @@
+ipdb==0.13.7
+scipy==1.5.4
+six==1.16.0
+tensorboardX==2.2
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.60.0

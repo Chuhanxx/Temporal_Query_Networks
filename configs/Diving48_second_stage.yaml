@@ -1,0 +1,14 @@
+{
+  "dataset": "diving48",
+  "num_classes": 48, 
+  "num_queries": 5,
+  "attribute_set_size": 25,
+  "max_length": 100000000,
+  "K": 10,
+  "downsample": 2,
+  "root": "/scratch/shared/beegfs/czhang/diving48/",
+  "save_folder": "/users/czhang/data/FineGym/exps/github",
+  "tbx_folder": "/users/czhang/data/FineGym/tbx/github",
+  "feature_file": "/users/czhang/work/TQN_demo/github/feature_bank_dive_prenorm/diving48_all_features.pkl",
+  "pretrained_weights_path": "/users/czhang/data/FineGym/exps/github/first_stage_diving_prenorm/best.pth"
+}

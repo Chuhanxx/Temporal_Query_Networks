@@ -1,0 +1,12 @@
+{
+  "dataset": "diving48",
+  "num_classes": 48, 
+  "num_queries": 5,
+  "attribute_set_size": 25,
+  "max_length": 128,
+  "downsample": 2,
+  "root": "/scratch/shared/beegfs/czhang/diving48/",
+  "save_folder": "/users/czhang/data/FineGym/exps/github",
+  "tbx_folder": "/users/czhang/data/FineGym/tbx/github",
+  "pretrained_weights_path": "/users/czhang/data/FineGym/exps/s3d_pretrained_kinetics_dropout08_uniform/S3D_K400.pth.tar"
+}
