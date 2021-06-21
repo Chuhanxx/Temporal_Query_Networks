@@ -137,10 +137,6 @@ def main():
     print("class_token_acc:%.2f" % round(test_acc[0]*100, 2))
 
 
-
-# python test.py --name second_stage_diving_prenorm  --dataset diving48 --batch_size 1 \
-# --dataset_config ../configs/Diving48_second_stage.yaml   
-
 if __name__ == '__main__':
     main()
 
