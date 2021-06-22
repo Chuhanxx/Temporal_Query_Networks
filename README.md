@@ -1,4 +1,4 @@
-# [Temporal_Query_Networks for Fine-grained Video Understanding](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
+# [Temporal Query Networks for Fine-grained Video Understanding](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
 
 📋 This repository contains the implementation of CVPR2021 paper [Temporal_Query_Networks for Fine-grained Video Understanding](https://arxiv.org/pdf/2104.09496.pdf)
 

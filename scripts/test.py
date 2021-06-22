@@ -137,8 +137,6 @@ def main():
     print("class_token_acc:%.2f" % round(test_acc[0]*100, 2))
 
 
-
-
 if __name__ == '__main__':
     main()
 
