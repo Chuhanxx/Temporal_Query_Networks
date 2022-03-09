@@ -26,7 +26,7 @@ source build_venv.sh
 
 # Prepare Data and Weight Initialization
 
-Please refer to [data.md](https://github.com/Chuhanxx/Temporal_Query_Networks/blob/main/data/data.md) for data preparation. 
+Please refer to [data.md](https://github.com/Chuhanxx/Temporal_Query_Networks/blob/master/data/data.md) for data preparation. 
 
 
 # Training 
